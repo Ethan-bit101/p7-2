@@ -104,6 +104,14 @@ export default function Index() {
   className="text-blue-500 hover:underline">
    <Button variant="outline" className="text-sm mb-2">Dashboard</Button>
   </a>
+    </a>
+  <a
+  href="/positions"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="text-blue-500 hover:underline">
+   <Button variant="outline" className="text-sm mb-2">Positions</Button>
+  </a>
 
 
 </nav>
@@ -111,7 +119,7 @@ export default function Index() {
 <main className = " ml-2">
 
   <article>
-    <p>Welcome to Index. Select any of the links above to go to Youtube Clone main site.</p>
+    <p>Welcome to Index. Select any of the links above to go to Youtube Clone main site. You can also go to Position webpage.</p>
     <p>Nextjs + Nestjs + Tailwind</p>
 
 
