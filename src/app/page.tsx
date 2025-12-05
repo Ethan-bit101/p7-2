@@ -103,7 +103,7 @@ export default function Index() {
   rel="noopener noreferrer"
   className="text-blue-500 hover:underline">
    <Button variant="outline" className="text-sm mb-2">Dashboard</Button>
-  </a>
+  
     </a>
   <a
   href="/positions"
