@@ -250,7 +250,7 @@ export default function DashboardLayout({children}: {
 
             <DropdownMenuSeparator />
             <DropdownMenuLabel>
-              <Link href="#" rel="noopener noreferrer">Positions</Link>
+              <Link href="/positions" rel="noopener noreferrer">Positions</Link>
             </DropdownMenuLabel>
 
             <DropdownMenuSeparator />
@@ -283,4 +283,5 @@ export default function DashboardLayout({children}: {
     </>
   );
 }
+
 
