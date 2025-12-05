@@ -9,7 +9,7 @@ import { Label } from "@/components/ui/label";
 import { Sheet,
          SheetClose,
          SheetContent,
-         SheetDesription,
+         SheetDescription,
          SheetFooter,
          SheetHeader,
          SheetTitle,
@@ -283,3 +283,4 @@ export default function DashboardLayout({children}: {
     </>
   );
 }
+
